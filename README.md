@@ -18,9 +18,13 @@ if you want to build an executable these are the commands:
 
 ```bash
 npm install electron-packager -g
+npm install -g appdmg
 electron-packager . desktop-hangouts --platform=darwin --arch=x64 --version=0.36.0 --icon=/Users/ddelizia/projects/desktop-hangouts/images/hangouts.icns
+appdmg appdmg.json build/desktop-hangouts.dmg
 ```
 
 Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
 
-#### License [CC0 (Public Domain)](LICENSE.md)
+## Download
+
+- Mac Version [](https://raw.githubusercontent.com/ddelizia/desktop-hangouts/master/build/desktop-hangouts.dmg)

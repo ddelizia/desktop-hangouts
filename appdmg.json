@@ -1,0 +1,11 @@
+{
+  "title": "desktop-hangouts",
+  "icon": "images/hangouts.icns",
+  "background": "images/background.jpg",
+  "icon-size": 80,
+  "contents": [
+    { "x": 448, "y": 344, "type": "link", "path": "/Applications" },
+    { "x": 192, "y": 344, "type": "file", "path": "desktop-hangouts-darwin-x64/desktop-hangouts.app" },
+    { "x": 512, "y": 128, "type": "file", "path": "README.md" }
+  ]
+}
