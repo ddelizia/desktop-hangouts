@@ -1,0 +1,26 @@
+{
+  "name": "desktop-hangouts",
+  "version": "1.0.
+  0",
+  "description": "A minimal Hangoutd Electron based application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddelizia/desktop-hangouts.git"
+  },
+  "keywords": [
+    "Electron",
+    "hangouts",
+    "desktop"
+  ],
+  "author": "Danilo Delizia",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/ddelizia/desktop-hangouts#readme",
+  "devDependencies": {
+    "electron-packager": "^5.2.0",
+    "electron-prebuilt": "^0.36.0"
+  }
+}
