@@ -27,4 +27,4 @@ Learn more about Electron and its API in the [documentation](http://electron.ato
 
 ## Download
 
-- Mac Version [](https://raw.githubusercontent.com/ddelizia/desktop-hangouts/master/build/desktop-hangouts.dmg)
+- Mac Version [here](https://raw.githubusercontent.com/ddelizia/desktop-hangouts/master/build/desktop-hangouts.dmg)
