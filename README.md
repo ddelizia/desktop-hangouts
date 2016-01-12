@@ -19,7 +19,7 @@ if you want to build an executable these are the commands:
 ```bash
 npm install electron-packager -g
 npm install -g appdmg
-electron-packager . desktop-hangouts --platform=darwin --arch=x64 --version=0.36.0 --icon=/Users/ddelizia/projects/desktop-hangouts/images/hangouts.icns
+electron-packager . desktop-hangouts --platform=darwin --arch=x64 --version=0.36.0 --icon=./images/hangouts.icns
 appdmg appdmg.json build/desktop-hangouts.dmg
 ```
 
